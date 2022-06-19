@@ -4,7 +4,7 @@ Universidad Nacional de San Agustin
 Facultad de Ingenieria de Procesos y Servicios
 Escuela Profesional de Ingenieria de Telecomunicaciones
 </h1></center>
-![logo](https://universidadesgratuitas.com/wp-content/uploads/2020/06/logo-unsa-facultad-de-ingenieria-unsa-unsa-salud-universidad-unsa-unsa-matriculas-unsa-carreras-a-distancia-aula-virtual-unsa.png)
+img src = "https://usr-images.githubusercontent.com/18308295/115939517-f1c6fe80-a463-11eb-989c-812ab4942586.png"
 <center><h1>
 Nombre: Ramos Rivas Roly
 </center></h1>

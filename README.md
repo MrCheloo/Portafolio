@@ -4,4 +4,4 @@
 <center><h1>Escuela Profesional de Ingenieria de Telecomunicaciones</h1></center>
 <center> <h1>Nombre: Ramos Rivas Roly</h1> </center>
 <center> <h1> </h1> </center>
-<center><img src = "https://usr-images.githubusercontent.com/19308295/115939517-f1c6fe80-a463-11eb-989c-812ab4942586.png" width = "350" height = "450"></center>
+<center><img src = "https://universidadesgratuitas.com/wp-content/uploads/2020/06/logo-unsa-facultad-de-ingenieria-unsa-unsa-salud-universidad-unsa-unsa-matriculas-unsa-carreras-a-distancia-aula-virtual-unsa.png" width = "350" height = "450"></center>
